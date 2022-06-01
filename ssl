@@ -1,0 +1,4 @@
+#### find what version of ssl tls bring used by server
+$ nmap -sV --script ssl-enum-ciphers -p 443 <host>
+
+#### find what version of ssl tls bring used by server
